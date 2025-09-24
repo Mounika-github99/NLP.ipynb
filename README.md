@@ -58,5 +58,3 @@ This project performs **sentiment analysis** on IMDB movie reviews, comparing th
 * **BERT**: Best performing with **92%** accuracy, leveraging pre-trained transformer-based embeddings.
 * **Classical ML**: Achieved **90%** accuracy using traditional techniques with TF-IDF features.
 * **BiLSTM + GloVe**: **89%** accuracy, effectively learning sequential dependencies in text.
-
-This format gives the key points and results in a clean, straightforward manner! Let me know if you'd like any tweaks.
